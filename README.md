@@ -24,7 +24,7 @@ The command line interpreter was designed to handle and process commands to a co
 |`_split`|Function that takes a string and slpits it into multiple strings and returns a pointer to the containing array.|
 |`_get_built_in`|Function that selects the built-in function to be used by comparing the command given with an array of structures and returnin a function pointer.|
 |`_not_built_in`|Function that searches for the $PATH variable on the environment and retunrs a pointer to it's first position.|
-|`_search_commands|Function that searches for a command on the different routes on $PATH and returns a copy of the route where it's found.|
+|`_search_commands`|Function that searches for a command on the different routes on $PATH and returns a copy of the route where it's found.|
 |`_execution_path`|Function that takes the full path to a command, the command, and the arguments on a sigle string and executes them. Returns an status indicating wether it was successful or not.|
 |`_execution`|Function that thakes the full path to a command and its arguments on a string and an array of strings respectively and executes them. Returns an status indicating wether it was successful or not.|
 |`_strlen`|Funtion that takes a string and returns its length.|
