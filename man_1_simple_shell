@@ -1,0 +1,30 @@
+% SHELL(1) 1.0.0
+% Cristian D. Oliveros and Juan E. Correa
+% August 2021
+
+# NAME
+hsh - This is a prototype of ispired by the common command interpreter knowlegded like **sh**
+
+# SYNOPSIS
+./hsh [command] [options]
+
+# DESCRIPTION
+This prototype can be used for type the most of the common commands in Linux, 
+this prototype can be used of interactive or not interactive mode of this way: 
+[command] [-options] | ./hsh. When you type a command, this program searh the 
+first parameter written and starts to search it in the directory /bin/, when the 
+commands are stored, or if the program have a specific path it is searched in 
+this path. If the program doesn't exists in the before paths look up for a 
+build_in (programs build_in in the System Operative), otherwise the program 
+print the correspondet error.
+
+# EXIT STATUS
+This shell have many returns deppending of the type of error, when the shell 
+not found the command or file, the shell return the exit status 127 
+(type "echo $?"). If the shell can´t execute, read or write a file, it returns 126,
+or if the shell donn't have any error, returns 0.
+
+# COPYRIGHT
+Copyright ® 2021 Cristian D. Oliveros and Juan E. Correa. This is free software: 
+you are free to change and redistribute it. There is no WARRANTY, to the extent 
+permitted by law.
