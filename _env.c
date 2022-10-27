@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _env - Displays the file containing all global variables
+ * _env - Displays the file containing global variables
  * @av: The arguments
  * @line: The line
  * Return: Always 0 Success
