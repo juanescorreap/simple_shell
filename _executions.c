@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _execution - execute a program
+ * _execution - Executes a program
  * @route: route of the program
  * @argv: arguments fot the program
  * Return: void
