@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _chars_in - Verify spaces until a character
+ * _chars_in - Verifies spaces until a character comes up
  * @string: Characters typed in the buffer
  * @space: Tha space caracter
  * @until: An specific caracter
