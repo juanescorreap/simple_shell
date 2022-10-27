@@ -25,7 +25,7 @@ int _strcmp(char *s1, char *s2)
 }
 
 /**
- * _strdup - returns a pointer to a newly allocated space in memory,
+ * _strdup - Returns a pointer to a newly allocated space in memory,
  * which contains a copy of the string given as a parameter
  * @str: the string
  * Return: pointer to the string duplicated
