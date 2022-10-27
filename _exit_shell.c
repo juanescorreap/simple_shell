@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _exit_shell - Program that exits the calling program.
+ * _exit_shell - Program that exits the calling program
  * @av: Arguments
  * @line: The current line
  * Return: The status
