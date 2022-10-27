@@ -25,7 +25,7 @@ void reverse(char *str, int len)
 }
 
 /**
- * int_to_str - Function that converts ints to char
+ * int_to_str - Function that converts integers to char
  * @x: int to be converted
  * @str: String that holds the result
  * Return: Void
