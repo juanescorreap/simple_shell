@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _copy_nstring - Function that copy and concatenates strings
+ * _copy_nstring - Function that copies and concatenates strings
  * @n: the strings number
  * Return: A pointer to the new string concatened
  */
