@@ -29,7 +29,7 @@ int (*_get_built_in(char **arguments, int sts))(char **av, int line)
 }
 
 /**
-* _not_built_in - searches and return the direction path
+* _not_built_in - Searches and return the direction path
 * @string_path: pinter to string_paths with the direction
 * Return: the direction path
 */
