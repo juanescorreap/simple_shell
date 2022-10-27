@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _free_variables - Free variables
+ * _free_variables - Function to free variables
  * @divided_path: First variable
  * @divided_list: Second variable
  * @route: Third variable
