@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _verificator_path -  verify if the file direction exists
+ * _verificator_path -  Verifies if the file direction exists
  * and if can be readed and executed
  * @av: the arguments
  * @line: the current line in the shell
