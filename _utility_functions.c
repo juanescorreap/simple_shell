@@ -51,7 +51,7 @@ char *_strdup(char *str)
 
 
 /**
- * _strlen -  Function that returns the length of a string.
+ * _strdup -  Function that returns the length of a string.
  * Return: Lenght of the string.
  * @s: String to whose length is to be computed.
  */
