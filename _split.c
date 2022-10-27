@@ -1,7 +1,7 @@
 #include "shell.h"
 /**
  * _split - Funtion that takes an string and splists it
- * into multple strings.
+ * into multiple strings
  * @delimit: Is the delimitir used by the strtok function
  * @buffer: String that store characters typed
  * Return: Pointer to an array of pointers cotaining
