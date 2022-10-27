@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * main - Program that reads the command l and executes a command.
+ * main - Program that reads a command and executes it
  * @ac: Number of arguments
  * @av: Arguments
  * Return: If successful 0, otherwise -1.
