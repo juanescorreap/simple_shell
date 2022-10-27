@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _search_commands - searches for a command on the path
+ * _search_commands - Searches for a command on the path
  * @divided_environ: the environment with the strings divided
  * @divided_arguments: the arguments list dividad
  * Return: Always 0 on success, or -1 is not successful
